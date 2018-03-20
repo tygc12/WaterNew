@@ -1,0 +1,13 @@
+E:\WaterKPI\WaterKpi\WaterKpi\bin\WaterKpi.dll.config
+E:\WaterKPI\WaterKpi\WaterKpi\bin\WaterKpi.dll
+E:\WaterKPI\WaterKpi\WaterKpi\bin\WaterKpi.pdb
+E:\WaterKPI\WaterKpi\WaterKpi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WaterKPI\WaterKpi\WaterKpi\bin\SH3H.SharpFrame.Common.dll
+E:\WaterKPI\WaterKpi\WaterKpi\bin\UAP.SDK.Infrastructure.dll
+E:\WaterKPI\WaterKpi\WaterKpi\bin\UAP.SDK.Share.dll
+E:\WaterKPI\WaterKpi\WaterKpi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WaterKPI\WaterKpi\WaterKpi\bin\SH3H.SharpFrame.Common.xml
+E:\WaterKPI\WaterKpi\WaterKpi\obj\Debug\WaterKpi.csprojResolveAssemblyReference.cache
+E:\WaterKPI\WaterKpi\WaterKpi\obj\Debug\WaterKpi.csproj.CoreCompileInputs.cache
+E:\WaterKPI\WaterKpi\WaterKpi\obj\Debug\WaterKpi.dll
+E:\WaterKPI\WaterKpi\WaterKpi\obj\Debug\WaterKpi.pdb
